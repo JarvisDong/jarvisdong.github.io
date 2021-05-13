@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - 就当我在吹</title>
+        <link>http://example.org/posts/</link>
+        <description>所有文章 | 就当我在吹</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>jarvis@haojun.cloud (董昊骏)</managingEditor>
+            <webMaster>jarvis@haojun.cloud (董昊骏)</webMaster><lastBuildDate>Thu, 13 May 2021 23:32:54 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>First_post</title>
+    <link>http://example.org/first_post/</link>
+    <pubDate>Thu, 13 May 2021 23:32:54 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/first_post/</guid>
+    <description><![CDATA[Heading 1 heading 2 heading 3 heading 4 heading 5 加粗 强调
+ 引用
+ 1 2 3 4 5 6 7 8  #include &lt;iostream&gt; using namespace std; int main() { cout &lt;&lt; &#34;hello word!&#34; &lt;&lt; endl; return 0; }   ]]></description>
+</item></channel>
+</rss>
