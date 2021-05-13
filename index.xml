@@ -2,8 +2,9 @@
     <channel>
         <title>就当我在吹</title>
         <link>http://example.org/</link>
-        <description>就当我在吹</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language>
+        <description>一个在写代码玩游戏的普通人</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>jarvis@haojun.cloud (董昊骏)</managingEditor>
+            <webMaster>jarvis@haojun.cloud (董昊骏)</webMaster>
             <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
         </channel>
 </rss>
